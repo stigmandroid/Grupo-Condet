@@ -1,2 +1,9 @@
 # Grupo-Condet
-Repositório para realização de trabalhos 
+Repository for project development.
+
+Devs:
+* FreakingOouts
+* rafaelgac98
+* italoffr
+* OffSalda
+* stigmandroid
